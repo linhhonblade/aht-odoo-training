@@ -1,0 +1,9 @@
+---
+title: Odoo Functional Notes
+subtitle: A tutorial for Odoo beginner
+author: MAI Pham Thi Ngoc
+titlepage: true
+...
+\tableofcontents
+\newpage{}
+
